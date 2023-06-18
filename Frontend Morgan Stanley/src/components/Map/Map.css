@@ -1,0 +1,23 @@
+.mapParent{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height:400px;
+    width:1000px;
+
+    }
+    .gif{
+       margin-left:40px;
+        width:300px;
+        padding-right:50px;
+    }
+    .Map{
+        border-radius: 10px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width:580px;
+        height:340px;
+    
+    }

@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat:wght@600&display=swap');
+
+.leftdiv{
+    display:flex;
+   flex-direction: column;
+ padding:40px;
+ align-items: flex-start;
+ 
+}
+.parent{
+    background: linear-gradient(to bottom right, rgba(255, 228, 225, 0.669), rgba(255, 255, 255, 0.409));
+
+    display:flex;
+    overflow: hidden;
+    align-items: center;
+    justify-content: space-between;
+    height: 60vh;
+}
+
+.app_name{
+    font-family: 'Merriweather', sans-serif;
+    color: darkcyan;
+    margin: 0;
+    font-size: 1.1rem;
+}
+
+.tagline{
+    font-size: 70px;
+    margin: 0px;
+    font-family: 'Merriweather', sans-serif;
+    line-height: 80px;
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.txt_tag{
+    margin: 5px 0px !important;
+}
+
+#emp_tag{
+    color: dodgerblue !important;
+}
+
+.minitag{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: lighter;
+    margin-bottom: 30px !important;
+}
+
+.last_line{
+     font-family: 'Merriweather', sans-serif;
+    color: black;
+    margin: 0;
+
+}
+
+
+.image_div{
+    height: 60vh;
+    width: 40%;
+}
+
+#emp{
+    color: Gold;
+}

@@ -1,0 +1,99 @@
+.basic_info{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 10px;
+
+}
+
+.contact_info{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 10px;
+
+}
+
+.role_info
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 10px;
+
+}
+
+
+.btn_back{
+    padding: 8px;
+    width:80px;
+    background-color:forestgreen;
+    color:white;
+    border:1px solid silver;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Nitin Patel */
+
+
+.event-info {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .event-info h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+
+  .event-details {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+
+  .event-details h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+    color: #666;
+  }
+
+  .event-details p {
+    font-size: 16px;
+    color: #333;
+  }
+
+  .event-description {
+    margin-bottom: 20px;
+  }
+
+  .event-description h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #666;
+  }
+
+  .event-description p {
+    font-size: 16px;
+    color: #333;
+  }
+
+  .register-button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  .register-button:hover {
+    background-color: #0056b3;
+  }

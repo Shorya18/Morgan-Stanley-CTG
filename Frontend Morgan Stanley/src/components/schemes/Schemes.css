@@ -1,0 +1,23 @@
+.schemeCards{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom:10px;
+    width: 100%;
+    columns: 3;
+    margin: 20px;
+    flex-wrap: wrap;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.schemeHeading{
+    text-align: center;
+    font-size:50px;
+    width: 100%;
+}
+
+.scheme_div{
+    padding:10px;
+}

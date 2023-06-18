@@ -1,0 +1,72 @@
+.home
+{
+    display: flex;
+    min-height: 60vh;
+    padding: 40px 20px;
+    margin-bottom: 10px;
+   box-shadow: 0px 150px 0px rgba(255, 250, 240, 0.509);
+}
+
+.left_featured{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width:55%;
+   
+    justify-content: center;
+    
+}
+
+.right_featured{
+    width: 65%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.app_name{
+    font-size: 20px;
+    font-family: 'Lobster', cursive;
+}
+
+.tagline{
+    font-size: 60px;
+   font-family: 'Quicksand', sans-serif; 
+   line-height: 60px;
+   margin: 5px 0px;
+   
+}
+
+.minitag{
+    font-size: 12px;
+    color: rgb(148, 148, 148);
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+.btns{
+    margin-top: 45px;
+    display: flex;
+    flex-direction: row;
+    margin-right: 60px;
+}
+
+.schemes{
+    margin-right: 20px;
+    width: 180px;
+    display: flex;
+    flex-direction: column;
+
+    
+
+}
+
+.img-1{
+    height: 60vh;
+    width: 90%;
+    object-fit: cover;
+    border-radius: 15px;
+}
+
+.mg-0{
+    margin: 0;
+}
