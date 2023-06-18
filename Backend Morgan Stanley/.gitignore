@@ -1,0 +1,28 @@
+# Node.js
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# Dependency directories
+/vendor
+/bower_components
+
+# Build artifacts
+/dist
+/build
+
+# Logs
+/logs
+
+# Environment variables
+.env
+
+# IDE files
+.idea
+.vscode
+*.sublime-*
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
